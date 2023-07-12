@@ -6,5 +6,11 @@ correção ortográfica com ALA:
             mede a distancia entre o melhor texto e o/s texto/s comparado/s (a partir da distancia)
             comparação de padrão de erros entre textos. Quanto maior, mais semelhante esse padrão (com produto interno)
             aproximação com minimos quadrados entre o grau de erro (norma) dos vetores (devolve desempenho)
-        
 
+probleminhas:
+    se a palavra que for corrigida vier imediatamente após alguma pontuação, ela é excluída na correção.
+    demora pra um k7 amigos e amigas que isso
+    preciso reiniciar o dicionário toda vez antes de começar a ver o texto novo
+
+soluções:
+    milagre
