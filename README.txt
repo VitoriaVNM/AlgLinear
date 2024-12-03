@@ -1,3 +1,4 @@
+Trabalho Final de ALA: foi descontinuado devido a sua complexidade (maior do que eu estava esperando) e a falta de tempo relacionado ao prazo de entrega.
 correção ortográfica com ALA:
     vai gerar dois vetores: um com as palavras digitadas erradas e outro com o qtd de vezes que foram erradas
         devolve a palavra que mais errou;
@@ -14,3 +15,6 @@ probleminhas:
 
 soluções:
     milagre
+
+Monopoly E Alg: Trabalho final enviado. 
+Se trata de uma análise do jogo Monopoly com ferramentas de álgebra linear aprendidas no decorrer do curso.
